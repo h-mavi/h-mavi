@@ -1,22 +1,24 @@
 # 👋 This is Mavis GitHub!
 
-<div>
-  <div align="left" display="flex">
-    <p>🎓 I'm a student at 42 Florence School</p>
-    <p>💻 I love writing in C and C++</p>
-    <p>🌱 Currently working on: ft_trascendence</p>
-  </div>
-  <div align="right">
-    <img height="180em" src="https://github.com/user-attachments/assets/93ff0716-2c7c-4353-bb20-43485a43e5e2" />
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <p>🎓 I'm a student at 42 Florence School</p>
+      <p>💻 I love writing in C and C++</p>
+      <p>🌱 Currently working on: ft_trascendence</p>
+    </td>
+    <td align="right" valign="top" nowrap>
+      <img height="120" src="https://github.com/user-attachments/assets/93ff0716-2c7c-4353-bb20-43485a43e5e2" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
 ## 42 Profile
 <div align="center">
   <a href="https://42cv.dev"><img src="https://42cv.dev/api/badge/cmocr0rwf00040ko9gjxazgmo/stats?cursusId=21&coalitionId=piscine" alt="mfanelli's 42 stats" /></a>
 </div>
 
-## 📊 GitHub Stats <img align="right" width="100" src="https://komarev.com/ghpvc/?username=sfabi&label=PROFILE+VIEWS">
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
