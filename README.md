@@ -5,9 +5,9 @@
     <p>🎓 I'm a student at 42 Florence School<br>
     💻 I love writing in C and C++<br>
     🌱 Currently working on: ft_trascendence</p>
+  </div>
   <div>
-    <div>
-      <img height="220" src="assets/_ (4).gif" alt="Coding animation" />
+    <img height="220" src="assets/_ (4).gif" alt="Coding animation" />
   </div>
 </div>
 
