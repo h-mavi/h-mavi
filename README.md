@@ -1,17 +1,15 @@
 # 👋 This is Mavis GitHub!
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <p>🎓 I'm a student at 42 Florence School</p>
-      <p>💻 I love writing in C and C++</p>
-      <p>🌱 Currently working on: ft_trascendence</p>
-    </td>
-    <td align="right" valign="top" nowrap>
-      <img height="120" src="https://github.com/user-attachments/assets/93ff0716-2c7c-4353-bb20-43485a43e5e2" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div>
+    <p>🎓 I'm a student at 42 Florence School<br>
+    💻 I love writing in C and C++<br>
+    🌱 Currently working on: ft_trascendence</p>
+  <div>
+    <div>
+      <img height="220" src="assets/_ (4).gif" alt="Coding animation" />
+  </div>
+</div>
 
 ## 42 Profile
 <div align="center">
