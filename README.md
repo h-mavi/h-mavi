@@ -44,12 +44,18 @@
   <a href="https://github.com/h-mavi/WebServer"> 
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=h-mavi&repo=WebServer" />
   </a>
-  <a href="https://github.com/h-mavi/Minishell">
-    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=h-mavi&repo=Minishell" />
-  </a>
   <a href="https://github.com/h-mavi/inception">
     <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=h-mavi&repo=inception" />
   </a>
+  <a href="https://github.com/h-mavi/Minishell">
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=h-mavi&repo=Minishell" />
+  </a>
+  <a href="https://github.com/h-mavi/Philosophers">
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=h-mavi&repo=Philosophers" />
+  </a>
+  <!-- <a href="https://github.com/h-mavi/Piscine">
+    <img src="https://github-readme-stats-zeta-nine-54.vercel.app/api/pin/?username=h-mavi&repo=Piscine" />
+  </a> -->
 </div>
 
 ## ✉️ Contact me
