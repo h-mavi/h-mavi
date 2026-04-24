@@ -16,7 +16,7 @@
   <a href="https://42cv.dev"><img src="https://42cv.dev/api/badge/cmocr0rwf00040ko9gjxazgmo/stats?cursusId=21&coalitionId=piscine" alt="mfanelli's 42 stats" /></a>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats <img align="right" src="https://wakatime.com/badge/user/84a81a22-9e72-492d-b57b-0088d5b41137.svg">
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
