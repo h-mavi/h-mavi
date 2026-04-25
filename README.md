@@ -19,13 +19,13 @@
 ## 📊 GitHub Stats <img align="right" src="https://wakatime.com/badge/user/84a81a22-9e72-492d-b57b-0088d5b41137.svg">
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=h-mavi&layout=compact&langs_count=8" />
+  <a href="https://github.com/h-mavi/README.md">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hmavi" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api?username=h-mavi&show_icons=truecount_private=true&include_all_commits=true" />
   </a>
-  <img height="180em" src="https://github-readme-stats-zeta-nine-54.vercel.app/api/top-langs/?username=h-mavi&layout=compact&langs_count=8" />
-  <!-- <a href="https://github.com/h-mavi/README.md">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hmavi" />
-  </a> -->
 </div>
 
 ## 🛠️ Languages & Skills
